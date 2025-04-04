@@ -20,14 +20,24 @@ Desenvolvedor Front-End apaixonado por criar interfaces modernas e responsivas. 
 
 ## 🔍 Projetos em Destaque
 
-### [Next-Shop](link-do-projeto)
-Breve descrição do projeto (ex: "Plataforma de e-commerce com React e Firebase")
+### 🛒 [Next-Shop](https://github.com/feJustino/next-shop)
+Plataforma E-Commerce Full-Stack
+
+Projeto desenvolvido com Next.js 14 (App Router) e TypeScript, apresentando:
+
+✦ Catálogo dinâmico de produtos  
+✦ Integração com Stripe
+
+_Stack moderna focada em boas práticas e performance, demonstrando habilidades full-stack desde autenticação até gestão de banco de dados._
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-000?style=for-the-badge&logo=vercel&logoColor=white)](next-shop-green.vercel.app)
 
 ### [Design-System](link-do-projeto)
-Breve descrição do projeto (ex: "Aplicativo de lista de tarefas com Local Storage")
+Biblioteca de componentes React para aplicações web, seguindo princípios de Design System moderno com:
 
-### [TicTacToe](link-do-projeto)
-Breve descrição do projeto (ex: "Clone da interface do Netflix")
+- **Acessibilidade** priorizada em todos os componentes
+- **Consistência** através de tokens de design
+- **Customização** via theming
+- **Documentação** interativa com Storybook
 
 ## 📈 Estatísticas do GitHub
 
@@ -37,8 +47,7 @@ Breve descrição do projeto (ex: "Clone da interface do Netflix")
 
 ## 📬 Contato
 
-- LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/seu-perfil/)
-- Email: [seu.email@provedor.com](mailto:seu.email@provedor.com)
-- Site Pessoal: [seusite.com](https://www.seusite.com) (se tiver)
+- LinkedIn: [https://www.linkedin.com/in/felipe-wx-justino/](https://www.linkedin.com/in/felipe-wx-justino/)
+- Email: [fwxjustino@gmail.com](fwxjustino@gmail.com)
 
 🌟 Sempre aberto a novas oportunidades e colaborações!
