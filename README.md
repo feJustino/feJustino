@@ -41,7 +41,7 @@ Biblioteca de componentes React para aplicações web, seguindo princípios de D
 
 ## 📈 Estatísticas do GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=feJustino&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=feJustino&theme=dark&hide_border=true&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feJustino&layout=compact&theme=vision-friendly-dark)](https://github.com/feJustino)
 
