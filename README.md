@@ -38,7 +38,8 @@ Biblioteca de componentes React para aplicações web, seguindo princípios de D
 - **Consistência** através de tokens de design
 - **Customização** via theming
 - **Documentação** interativa com Storybook
-
+- 
+[![Static Badge](https://img.shields.io/badge/Live_Demo-blue?style=plastic&logo=github&labelColor=%232088FF)](https://fejustino.github.io/design-system/?path=/docs/home--docs)
 ## 📈 Estatísticas do GitHub
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=feJustino&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
